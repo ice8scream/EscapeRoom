@@ -7,10 +7,18 @@
 /intermediate/
 /saved/
 *_BuiltData.uasset
-/Content/StarterContent/
+/Content/StarterContent/Textures
+/Content/StarterContent/HDRI
 
 ######################
 # VS Generated Files #
 ######################
 
+*.opendb
 *.db
+*.sln
+*.suo
+*.ipch
+*.vs
+
+# TODO refactor / add this #
